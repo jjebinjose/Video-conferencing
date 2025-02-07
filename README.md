@@ -50,3 +50,6 @@ The Web-Based Video Conferencing Application is a real-time communication platfo
 
 ## Roles
 User
+
+## Wireframe URL:
+https://www.figma.com/proto/BbnK59ncMJAlpBW3i9KiiY/wire-frame---video-conferencing?node-id=0-1&t=7c5UXGgnPAJvFqGX-1
